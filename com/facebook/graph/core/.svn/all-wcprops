@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/363/trunk/source/api/com/facebook/graph/core
+END
+AbstractFacebook.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/363/trunk/source/api/com/facebook/graph/core/AbstractFacebook.as
+END
+FacebookJSBridge.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/356/trunk/source/api/com/facebook/graph/core/FacebookJSBridge.as
+END
+FacebookURLDefaults.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/363/trunk/source/api/com/facebook/graph/core/FacebookURLDefaults.as
+END
+FacebookLimits.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/343/trunk/source/api/com/facebook/graph/core/FacebookLimits.as
+END
